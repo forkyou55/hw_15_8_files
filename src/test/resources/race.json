@@ -1,0 +1,8 @@
+{
+  "names": ["Bilbo Baggins","Aragorn"],
+  "race": ["Hobbits","Men"],
+  "ages": ["131","210"],
+  "isGoodCharacter": true,
+  "writer": ["John Ronald Reuel Tolkien"]
+
+}
